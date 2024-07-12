@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ghostdragon8579
 - 👀 I’m interested in dragons, nature, coding(obviously) and D&D
 - 🌱 I’m currently learning the nuances of how music works in processing
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ There is currently nothing i’m looking to collaborate on at this moment
 - 📫 How to reach me ...
 
 <!---
